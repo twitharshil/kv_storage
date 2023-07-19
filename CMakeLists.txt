@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.2) 
 
-Project(Storage VERSION 1.0.0 LANGUAGES OBJC)
+Project(Storage VERSION 1.0.0 LANGUAGES OBJCXX)
 
 set(CMAKE_MACOSX_BUNDLE YES)
 

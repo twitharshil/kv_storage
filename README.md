@@ -22,8 +22,6 @@ Building the project is a simple. Run this single command:
 ```
 ## 🚁 Trying the App
 
-Initiate the make command:
-
 ```bash
 ./Storage.app/Contents/MacOS/Storage
 ```
