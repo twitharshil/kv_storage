@@ -1,6 +1,6 @@
 # macOS-Storage
 
-Welcome to macOS-storage! This project is an experiment on key value storage on macOS platform completely natively.
+This project is an experiment over building key value storage on macOS platform going completely natively using macOS capabilities.
 
 ## 🛠 Requirements
 
