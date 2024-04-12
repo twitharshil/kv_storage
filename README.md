@@ -1,4 +1,4 @@
-# =Kv_storage
+# Kv_storage
 
 This project is an experiment over building key value storage on macOS platform going completely natively using macOS capabilities.
 
